@@ -5,12 +5,12 @@
 
 
 ### Código
-<img src=”code.png”>
+<img src=”./src/assets/code.png”>
 
 
 ### Resultado dos testes
-<img src=”test.png”>
+<img src=”./src/assets/test.png”>
 
 
 ### Aplicação
-<img src=”test.png”>
+<img src=”./src/assets/test.png”>
